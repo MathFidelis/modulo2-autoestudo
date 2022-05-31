@@ -1,0 +1,9 @@
+.foto-perfil{
+    width: 200px;
+    border: thin solid;
+}
+
+img {
+    border-radius: 50%;
+  } 
+
